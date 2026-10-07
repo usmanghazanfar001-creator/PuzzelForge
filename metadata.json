@@ -1,0 +1,6 @@
+{
+  "name": "PuzzleForge",
+  "description": "Polished multi-puzzle gaming app featuring Sudoku, 2048, Minesweeper, Sliding Puzzle, Word Search, 8-Queens & N-Queens solvers, AI race mode, and daily challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
